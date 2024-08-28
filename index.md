@@ -1,3 +1,8 @@
+# Abhishek's First CS193 Homework
+- This class is manageable and easy!
+- This class is taught by undergraduate students, which makes me feel like I can communicate with them a little easier.
+- This class is helpful because it teaches CS and non-CS majors the basics.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
